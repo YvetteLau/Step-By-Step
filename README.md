@@ -24,7 +24,7 @@ ____
 
 ### 组织
 
-`Step-By-Step` 项目我会新建一个交流群，如果你能够坚持答题，那么欢迎加入组织~
+`Step-By-Step` 项目我新建了一个交流群，如果你能够坚持答题，那么欢迎加入组织~
 
 ![](https://m.360buyimg.com/njmobilecms/jfs/t28489/36/1425852964/75958/dcd15aab/5cde9b88N21e8ec93.jpg)
 
