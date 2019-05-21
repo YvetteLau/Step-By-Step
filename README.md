@@ -19,6 +19,8 @@ ___
 
 [JS中基本数据类型有哪几种？null 是对象吗？基本数据类型和复杂数据类型有什么区别？](https://github.com/YvetteLau/Step-By-Step/issues/5)
 
+点击进入issue，在此issue下留下你的答案~
+
 
 ### 本周问题
 
