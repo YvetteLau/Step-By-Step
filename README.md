@@ -15,6 +15,8 @@ ___
 
 ## 今日问题
 
+2019-05-27
+
 [节流(throttle)函数的作用是什么？有哪些应用场景，请实现一个节流函数](https://github.com/YvetteLau/Step-By-Step/issues/12)
 
 
