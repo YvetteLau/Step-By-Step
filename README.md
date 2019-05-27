@@ -15,10 +15,7 @@ ___
 
 ## 今日问题
 
-
-2019-05-24
-
-[防抖(debounce)函数的作用是什么？有哪些应用场景，请实现一个防抖函数。](https://github.com/YvetteLau/Step-By-Step/issues/10)
+[节流(throttle)函数的作用是什么？有哪些应用场景，请实现一个节流函数](https://github.com/YvetteLau/Step-By-Step/issues/12)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -27,6 +24,10 @@ ___
 
 
 ## 本周问题
+
+2019-05-24
+
+[防抖(debounce)函数的作用是什么？有哪些应用场景，请实现一个防抖函数。](https://github.com/YvetteLau/Step-By-Step/issues/10)
 
 
 2019-05-23
