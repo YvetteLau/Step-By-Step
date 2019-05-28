@@ -39,7 +39,7 @@ ___
 
 ## 周刊
 
-[【Step-By-Step】一周面试题 && 答案汇总 / 周刊01](https://github.com/YvetteLau/Blog/issues/31)
+[【Step-By-Step】一周面试题 && 答案汇总 / 周刊01](https://juejin.im/post/5cea6e5fe51d45775e33f4de)
 
 
 ____
