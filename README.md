@@ -35,7 +35,7 @@ ___
 
 ## 历史问题
 
-[查看更多面试题](https://github.com/YvetteLau/Step-By-Step/summary/index.md)
+[查看更多面试题](https://github.com/YvetteLau/Step-By-Step/blob/master/summary/index.md)
 
 ## 周刊
 
