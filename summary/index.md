@@ -16,3 +16,18 @@
 
 #### 第二周
 
+
+
+6. [节流(throttle)函数的作用是什么？有哪些应用场景，请实现一个节流函数](https://github.com/YvetteLau/Step-By-Step/issues/12)
+
+7. [说一说你对JS上下文栈和作用域链的理解？](https://github.com/YvetteLau/Step-By-Step/issues/14)
+
+8. [什么是BFC？BFC的原理是什么？如何创建BFC？](https://github.com/YvetteLau/Step-By-Step/issues/15)
+
+9. [let、const、var的区别有哪些？](https://github.com/YvetteLau/Step-By-Step/issues/16)
+
+10. [深拷贝和浅拷贝的区别是什么？如何实现一个深拷贝？](https://github.com/YvetteLau/Step-By-Step/issues/17)
+
+最佳答案：[【Step-By-Step】一周面试题深入解析 / 周刊02](https://juejin.im/post/5cf392e75188250d2850f97d)
+
+
