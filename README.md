@@ -15,9 +15,9 @@ ___
 
 ## 今日问题
 
-2019-06-04
+2019-06-05
 
-[如何隐藏页面中的某个元素？](https://github.com/YvetteLau/Step-By-Step/issues/19)
+[浏览器事件代理机制的原理是什么？](https://github.com/YvetteLau/Step-By-Step/issues/20)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -26,6 +26,10 @@ ___
 
 
 ## 本周问题
+
+2019-06-04
+
+[如何隐藏页面中的某个元素？](https://github.com/YvetteLau/Step-By-Step/issues/19)
 
 2019-06-03
 
