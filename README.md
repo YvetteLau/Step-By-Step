@@ -15,9 +15,9 @@ ___
 
 ## 今日问题
 
-2019-06-05
+2019-06-10
 
-[浏览器事件代理机制的原理是什么？](https://github.com/YvetteLau/Step-By-Step/issues/20)
+[什么是闭包？闭包的作用是什么？](https://github.com/YvetteLau/Step-By-Step/issues/24)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -25,7 +25,15 @@ ___
 ___
 
 
-## 本周问题
+## 上周问题
+
+2019-06-06
+
+[setTimeout 倒计时为什么会出现误差？](https://github.com/YvetteLau/Step-By-Step/issues/21)
+
+2019-06-05
+
+[浏览器事件代理机制的原理是什么？](https://github.com/YvetteLau/Step-By-Step/issues/20)
 
 2019-06-04
 
