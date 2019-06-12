@@ -15,9 +15,9 @@ ___
 
 ## 今日问题
 
-2019-06-10
+2019-06-12
 
-[什么是闭包？闭包的作用是什么？](https://github.com/YvetteLau/Step-By-Step/issues/24)
+[异步加载 js 脚本的方法有哪些？](https://github.com/YvetteLau/Step-By-Step/issues/26)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -25,23 +25,17 @@ ___
 ___
 
 
-## 上周问题
+## 本周问题
 
-2019-06-06
 
-[setTimeout 倒计时为什么会出现误差？](https://github.com/YvetteLau/Step-By-Step/issues/21)
+2019-06-11
 
-2019-06-05
+[实现 Promise.all 方法](https://github.com/YvetteLau/Step-By-Step/issues/25)
 
-[浏览器事件代理机制的原理是什么？](https://github.com/YvetteLau/Step-By-Step/issues/20)
+2019-06-10
 
-2019-06-04
+[什么是闭包？闭包的作用是什么？](https://github.com/YvetteLau/Step-By-Step/issues/24)
 
-[如何隐藏页面中的某个元素？](https://github.com/YvetteLau/Step-By-Step/issues/19)
-
-2019-06-03
-
-[什么是XSS攻击，XSS攻击可以分为哪几类？我们如何防范XSS攻击？](https://github.com/YvetteLau/Step-By-Step/issues/18)
 
 
 ## 历史问题
@@ -53,6 +47,8 @@ ___
 [【Step-By-Step】一周面试题 && 答案汇总 / 周刊01](https://juejin.im/post/5cea6e5fe51d45775e33f4de)
 
 [【Step-By-Step】一周面试题深入解析 / 周刊02](https://juejin.im/post/5cf392e75188250d2850f97d)
+
+[【Step-By-Step】一周面试题深入解析 / 周刊03](https://juejin.im/post/5cfdc5c7f265da1b8a4f10f3)
 ____
 
 ## 组织
