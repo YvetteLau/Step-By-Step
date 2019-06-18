@@ -42,3 +42,18 @@
 14. [什么是XSS攻击，XSS攻击可以分为哪几类？我们如何防范XSS攻击？](https://github.com/YvetteLau/Step-By-Step/issues/18)
 
 最佳答案：[【Step-By-Step】一周面试题深入解析 / 周刊03](https://juejin.im/post/5cfdc5c7f265da1b8a4f10f3)
+
+
+#### 第四周
+
+15. [什么是闭包？闭包的作用是什么？](https://github.com/YvetteLau/Step-By-Step/issues/24)
+
+16. [实现 Promise.all 方法](https://github.com/YvetteLau/Step-By-Step/issues/25)
+
+17. [异步加载 js 脚本的方法有哪些？](https://github.com/YvetteLau/Step-By-Step/issues/26)
+
+18. [请实现一个 flattenDeep 函数，将嵌套的数组扁平化](https://github.com/YvetteLau/Step-By-Step/issues/26)
+
+19. [可迭代对象有什么特点？](https://github.com/YvetteLau/Step-By-Step/issues/27)
+
+最佳答案：[【Step-By-Step】高频面试题深入解析 / 周刊04](https://juejin.im/post/5d064ab851882510715e37ad)

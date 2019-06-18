@@ -15,9 +15,9 @@ ___
 
 ## 今日问题
 
-2019-06-12
+2019-06-19
 
-[异步加载 js 脚本的方法有哪些？](https://github.com/YvetteLau/Step-By-Step/issues/26)
+[JSONP原理及简单实现](https://github.com/YvetteLau/Step-By-Step/issues/30)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -28,13 +28,9 @@ ___
 ## 本周问题
 
 
-2019-06-11
+2019-06-17
 
-[实现 Promise.all 方法](https://github.com/YvetteLau/Step-By-Step/issues/25)
-
-2019-06-10
-
-[什么是闭包？闭包的作用是什么？](https://github.com/YvetteLau/Step-By-Step/issues/24)
+[实现 Promise.race 方法](https://github.com/YvetteLau/Step-By-Step/issues/29)
 
 
 
@@ -44,11 +40,13 @@ ___
 
 ## 周刊
 
-[【Step-By-Step】一周面试题 && 答案汇总 / 周刊01](https://juejin.im/post/5cea6e5fe51d45775e33f4de)
+[【Step-By-Step】高频面试题 && 答案汇总 / 周刊01](https://juejin.im/post/5cea6e5fe51d45775e33f4de)
 
-[【Step-By-Step】一周面试题深入解析 / 周刊02](https://juejin.im/post/5cf392e75188250d2850f97d)
+[【Step-By-Step】高频面试题深入解析 / 周刊02](https://juejin.im/post/5cf392e75188250d2850f97d)
 
-[【Step-By-Step】一周面试题深入解析 / 周刊03](https://juejin.im/post/5cfdc5c7f265da1b8a4f10f3)
+[【Step-By-Step】高频面试题深入解析 / 周刊03](https://juejin.im/post/5cfdc5c7f265da1b8a4f10f3)
+
+[【Step-By-Step】高频面试题深入解析 / 周刊03](https://juejin.im/post/5d064ab851882510715e37ad)
 ____
 
 ## 组织
