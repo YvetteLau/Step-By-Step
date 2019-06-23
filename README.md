@@ -15,9 +15,9 @@ ___
 
 ## 今日问题
 
-2019-06-19
+2019-06-21
 
-[JSONP原理及简单实现](https://github.com/YvetteLau/Step-By-Step/issues/30)
+[编写一个通用的柯里化函数currying](https://github.com/YvetteLau/Step-By-Step/issues/33)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -27,6 +27,21 @@ ___
 
 ## 本周问题
 
+2019-06-21
+
+[编写一个通用的柯里化函数currying](https://github.com/YvetteLau/Step-By-Step/issues/33)
+
+2019-06-20
+
+[清除浮动的方法有哪些？](https://github.com/YvetteLau/Step-By-Step/issues/32)
+
+2019-06-19
+
+[实现一个数组去重的方法](https://github.com/YvetteLau/Step-By-Step/issues/31)
+
+2019-06-18
+
+[JSONP原理及简单实现](https://github.com/YvetteLau/Step-By-Step/issues/30)
 
 2019-06-17
 
@@ -40,7 +55,7 @@ ___
 
 ## 周刊
 
-[【Step-By-Step】高频面试题 && 答案汇总 / 周刊01](https://juejin.im/post/5cea6e5fe51d45775e33f4de)
+[【Step-By-Step】高频面试题深入解析 / 周刊01](https://juejin.im/post/5cea6e5fe51d45775e33f4de)
 
 [【Step-By-Step】高频面试题深入解析 / 周刊02](https://juejin.im/post/5cf392e75188250d2850f97d)
 
