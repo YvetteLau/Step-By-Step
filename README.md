@@ -15,9 +15,9 @@ ___
 
 ## 今日问题
 
-2019-06-21
+2019-07-02
 
-[编写一个通用的柯里化函数currying](https://github.com/YvetteLau/Step-By-Step/issues/33)
+[实现一个 JSON.parse](https://github.com/YvetteLau/Step-By-Step/issues/40)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -27,25 +27,11 @@ ___
 
 ## 本周问题
 
-2019-06-21
+2019-07-01
 
-[编写一个通用的柯里化函数currying](https://github.com/YvetteLau/Step-By-Step/issues/33)
+[实现一个 JSON.stringify](https://github.com/YvetteLau/Step-By-Step/issues/39)
 
-2019-06-20
 
-[清除浮动的方法有哪些？](https://github.com/YvetteLau/Step-By-Step/issues/32)
-
-2019-06-19
-
-[实现一个数组去重的方法](https://github.com/YvetteLau/Step-By-Step/issues/31)
-
-2019-06-18
-
-[JSONP原理及简单实现](https://github.com/YvetteLau/Step-By-Step/issues/30)
-
-2019-06-17
-
-[实现 Promise.race 方法](https://github.com/YvetteLau/Step-By-Step/issues/29)
 
 
 
@@ -61,7 +47,7 @@ ___
 
 [【Step-By-Step】高频面试题深入解析 / 周刊03](https://juejin.im/post/5cfdc5c7f265da1b8a4f10f3)
 
-[【Step-By-Step】高频面试题深入解析 / 周刊03](https://juejin.im/post/5d064ab851882510715e37ad)
+[【Step-By-Step】高频面试题深入解析 / 周刊04](https://juejin.im/post/5d064ab851882510715e37ad)
 ____
 
 ## 组织
