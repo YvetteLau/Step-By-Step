@@ -15,9 +15,9 @@ ___
 
 ## 今日问题
 
-2019-07-02
+2019-07-04
 
-[实现一个 JSON.parse](https://github.com/YvetteLau/Step-By-Step/issues/40)
+[使用CSS让一个元素水平垂直居中 ](https://github.com/YvetteLau/Step-By-Step/issues/42)
 
 
 **点击进入issue，在此issue下留下你的答案~**
@@ -26,6 +26,14 @@ ___
 
 
 ## 本周问题
+
+2019-07-03
+
+[实现一个观察者模式 ](https://github.com/YvetteLau/Step-By-Step/issues/41)
+
+2019-07-02
+
+[实现一个 JSON.parse](https://github.com/YvetteLau/Step-By-Step/issues/40)
 
 2019-07-01
 
