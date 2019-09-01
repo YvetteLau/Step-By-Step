@@ -7,7 +7,7 @@
 
 每个工作日我会发布一个前端相关的问题，欢迎在 Issue 区留下你的答案。
 
-节假日不会发布任何问题，希望大家能够利用节假日回顾一周所学，温故的重要性相信无需我多言。每周我会进行一次汇总，以便大家回顾。
+节假日不会发布任何问题，希望大家能够利用节假日回顾一周所学，温故的重要性相信无需我多言。
 
 如果觉得本项目不错，点个**Star**,鼓励一下吧~
 ___
@@ -15,36 +15,10 @@ ___
 
 ## 今日问题
 
-[如何使用Proxy实现简单MVVM？](https://github.com/YvetteLau/Step-By-Step/issues/44)
+[Vue组件间是怎么进行参数传递的？](https://github.com/YvetteLau/Step-By-Step/issues/48)
 
 **点击进入issue，在此issue下留下你的答案~**
 ___
-
-
-## 上周问题
-
-2019-07-05
-
-[ES6模块和CommonJS模块有哪些差异？ ](https://github.com/YvetteLau/Step-By-Step/issues/43)
-
-
-2019-07-04
-
-[使用CSS让一个元素水平垂直居中 ](https://github.com/YvetteLau/Step-By-Step/issues/42)
-
-2019-07-03
-
-[实现一个观察者模式 ](https://github.com/YvetteLau/Step-By-Step/issues/41)
-
-2019-07-02
-
-[实现一个 JSON.parse](https://github.com/YvetteLau/Step-By-Step/issues/40)
-
-2019-07-01
-
-[实现一个 JSON.stringify](https://github.com/YvetteLau/Step-By-Step/issues/39)
-
-
 
 
 
