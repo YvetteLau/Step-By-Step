@@ -2,11 +2,7 @@
 
 **不积跬步无以至千里。**
 
-## 今日问题
-
-[Vue组件间是怎么进行参数传递的？](https://github.com/YvetteLau/Step-By-Step/issues/48)
-
-**点击进入issue，在此issue下留下你的答案~**
+### 停更
 ___
 
 
